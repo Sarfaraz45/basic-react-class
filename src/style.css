@@ -1,0 +1,37 @@
+#main{
+    background-color: dimgrey;
+    justify-content: center;
+    border:2px solid red;
+    border-radius: 20px;
+    width: 100%;
+}
+
+.age{
+    background-color: blueviolet;
+    width: 23%;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.city{
+background-color: brown;
+width: 23%;
+    text-align: center;
+    justify-content: center;
+}
+
+.list{
+    background-color: cadetblue;
+    width: 20%;
+    
+    
+}
+
+.myName1{
+    background-color: chocolate;
+}
+.first{
+    background-color: darkcyan;
+    width: 23%;
+}
